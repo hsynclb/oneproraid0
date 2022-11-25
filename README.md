@@ -2,7 +2,7 @@
 
 Talimatlar
 
-Debian/Ubuntu:
+Debian/Ubuntu:<br>
 apt update
 apt install -y xz-utils openssl gawk file
 
