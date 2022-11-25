@@ -6,7 +6,7 @@ Debian/Ubuntu:<br>
 apt update
 apt install -y xz-utils openssl gawk file
 
-RedHat/CentOS:
+RedHat/CentOS:<br>
 yum install -y xz openssl gawk file
 
 Alttaki dosyayı indir:
