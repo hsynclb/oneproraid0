@@ -28,5 +28,5 @@ Password değiştir.
 
 
 Özel görüntü kullanarak centos yükleme:<br>
-bash install-raid0.sh -c 7 -v 64 -a --mirror 'http://mirror.centos.org/centos'<br>
-bash install-raid0.sh -c 7.9.2009 -v 64 -a<br>
+bash oneproraid0.sh -c 7 -v 64 -a --mirror 'http://mirror.centos.org/centos'<br>
+bash oneproraid0.sh -c 7.9.2009 -v 64 -a<br>
