@@ -11,7 +11,7 @@ yum install -y xz openssl gawk file<br>
 
 Alttaki dosyayı indir:<br>
 <br>
-wget --no-check-certificate -qO oneproraid0.sh 'https://github.com/hsynclb/oneproraid0/blob/main/oneproraid0.sh'<br>
+wget --no-check-certificate -qO oneproraid0.sh 'https://raw.githubusercontent.com/hsynclb/oneproraid0/main/oneproraid0.sh'<br>
 chmod a+x oneproraid0.sh<br>
 
 
